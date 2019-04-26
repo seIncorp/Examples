@@ -17,7 +17,7 @@ function draw()
 {
     background( 0 );
     
-    let total = 200 //map(mouseX,0,width,0,200);
+    let total = 200;
 
     let factorBy = 3;
 
