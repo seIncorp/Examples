@@ -18,3 +18,6 @@ Here you can see the bouncing ball and changing color at every step.
 
 ### Example 3 - Box - Circle
 Here you can see changing from box to circle and vice versa.
+
+### Tween/Example 4 - [Box - Circle with Tween.js](https://codepen.io/superJS132/pen/YMmopm)
+Here you can see changing from box to circle and vice versa.
