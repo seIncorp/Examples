@@ -6,7 +6,7 @@ Practical examples of different scripts, frameworks, vanilla JS, ...
 ### Example 1 - [Boxes](https://codepen.io/superJS132/pen/JVggoo)
 Here if you click on box you will delete it. But if you click on empty space you will create new box.
 
-### Example 2 - Curtains and Balls
+### Example 2 - [Curtains and Balls](https://codepen.io/superJS132/pen/EJqqjq)
 Here you have curtains created with boxes and if you click in empty space you will create new Ball. If you click on ball you will move this ball.
 
 ## p5.js
