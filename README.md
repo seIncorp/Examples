@@ -21,3 +21,6 @@ Here you can see changing from box to circle and vice versa.
 
 ### Tween/Example 4 - [Box - Circle with Tween.js](https://codepen.io/superJS132/pen/YMmopm)
 Here you can see changing from box to circle and vice versa.
+
+### Example 5 - [N-gon](https://codepen.io/superJS132/pen/byNXPY)
+N-gon with all possible edges.
