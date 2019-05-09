@@ -24,3 +24,6 @@ Here you can see changing from box to circle and vice versa.
 
 ### Example 5 - [N-gon](https://codepen.io/superJS132/pen/byNXPY)
 N-gon with all possible edges.
+
+### Example 6 - [Circle–line intersection](https://codepen.io/superJS132/pen/YbwwEB)
+Here you can move line through circle and you will see animation of all intersection points.
