@@ -27,3 +27,6 @@ N-gon with all possible edges.
 
 ### Example 6 - [Circle–line intersection](https://codepen.io/superJS132/pen/YbwwEB)
 Here you can move line through circle and you will see animation of all intersection points.
+
+### Example 7 - [Circle–circle intersection](https://codepen.io/superJS132/pen/vwLeNB)
+Here you can see animation of different circles and all intersection points of showed circles. 
