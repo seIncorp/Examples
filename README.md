@@ -30,3 +30,6 @@ Here you can move line through circle and you will see animation of all intersec
 
 ### Example 7 - [Circle–circle intersection](https://codepen.io/superJS132/pen/vwLeNB)
 Here you can see animation of different circles and all intersection points of showed circles. 
+
+### Example 8 - Archimedean spiral
+From [WIKI](https://en.wikipedia.org/wiki/Polar_coordinate_system).
