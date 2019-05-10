@@ -33,3 +33,6 @@ Here you can see animation of different circles and all intersection points of s
 
 ### Example 8 - [Archimedean spiral](https://codepen.io/superJS132/pen/vwGeZB)
 From [WIKI](https://en.wikipedia.org/wiki/Polar_coordinate_system).
+
+### Example 9 - [Polar rose](https://codepen.io/superJS132/pen/KLzXoy)
+From [WIKI](https://en.wikipedia.org/wiki/Rose_(mathematics)).
