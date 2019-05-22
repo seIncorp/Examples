@@ -36,3 +36,10 @@ From [WIKI](https://en.wikipedia.org/wiki/Polar_coordinate_system).
 
 ### Example 9 - [Polar rose](https://codepen.io/superJS132/pen/KLzXoy)
 From [WIKI](https://en.wikipedia.org/wiki/Rose_(mathematics)).
+
+## Algorithmic drawing
+Here you can see manipulation with each pixel with a partly help of p5.js.
+
+### Shaping functions
+#### [Example 1](https://codepen.io/superJS132/pen/gJomxz)
+Drawing line.
