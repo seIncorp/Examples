@@ -44,3 +44,6 @@ Here you can see manipulation with each pixel with a partly help of p5.js.
 ### Shaping functions
 #### [Example 1](https://codepen.io/superJS132/pen/gJomxz)
 Drawing line.
+
+#### [Example 2](https://codepen.io/superJS132/pen/MdrmmJ)
+Drawing curved line.
