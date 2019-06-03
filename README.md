@@ -47,3 +47,13 @@ Drawing line.
 
 #### [Example 2](https://codepen.io/superJS132/pen/MdrmmJ)
 Drawing curved line.
+
+### Colors
+#### [Example 1](https://codepen.io/superJS132/pen/zQezEm)
+Changing colors.
+
+#### [Example 2](https://codepen.io/superJS132/pen/KLJqQy)
+Here you can change colors with the sliders. Lines are drawn by three different shaping functions. 
+
+#### [Example 3](https://codepen.io/superJS132/pen/XwOgPy)
+Showing HSB colors and here you can change the saturation of colors. 
