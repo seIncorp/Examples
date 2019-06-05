@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script language="javascript" src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.3/p5.min.js"></script>
+    <script language="javascript" src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.3/addons/p5.dom.js"></script>
+
+    <script type="text/javascript" src="gpu-browser.min.js"></script>
+  </head>
+  <body>
+    <p>
+      Corners:
+      <input type="range" onchange="test()" min="3" max="20" step="1" value="3" id="Corners">
+    </p>
+
+    <p>
+      Moving:
+      <input type="checkbox" onchange="test()" id="moving1" checked='true'><br>
+      Object2 is smaller.
+    </p>
+    <p>
+      Color 1:
+      Red: <input type="checkbox" onchange="test()" id="color1R" checked='true'><br>
+      Green: <input type="checkbox" onchange="test()" id="color1G" checked='true'><br>
+      Blue: <input type="checkbox" onchange="test()" id="color1B" checked='true'><br>
+    </p>
+    <p>
+      Color 2:
+      Red: <input type="checkbox" onchange="test()" id="color2R" checked='true'><br>
+      Green: <input type="checkbox" onchange="test()" id="color2G" checked='true'><br>
+      Blue: <input type="checkbox" onchange="test()" id="color2B" checked='true'><br>
+    </p>
+  </body>
+  <script type="text/javascript" src="test.js"></script>
+</html>
