@@ -60,3 +60,10 @@ Showing HSB colors and here you can change the saturation of colors.
 
 #### [Example 4](https://codepen.io/superJS132/pen/OYdOVV)
 Showing HSB colors in polar coordinates.
+
+### Shapes
+#### [Example 1](https://codepen.io/superJS132/pen/xNePyJ)
+Here you can see three squares and at one square you can change the border.
+
+#### [Example 2](https://codepen.io/superJS132/pen/pmBdqP)
+Here you can change rays, color, the sharpness of rays and transparency of rays.
