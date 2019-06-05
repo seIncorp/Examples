@@ -10,6 +10,7 @@ Here if you click on box you will delete it. But if you click on empty space you
 Here you have curtains created with boxes and if you click in empty space you will create new Ball. If you click on ball you will move this ball.
 
 ## gpu.js
+Here you can see examples inspired by this [book](https://thebookofshaders.com).
 ### [Example 1](https://codepen.io/superJS132/pen/XwQYPd?editors=1010)
 This example was made from Algorithmic drawing - Shapes - Example 2. With gpu.js work faster. Besides this, here is used p5.js script.
 
@@ -49,7 +50,7 @@ From [WIKI](https://en.wikipedia.org/wiki/Rose_(mathematics)).
 
 ## Algorithmic drawing
 Here you can see manipulation with each pixel with a partly help of p5.js.
-[Used book](https://thebookofshaders.com)
+Inspired by this [book](https://thebookofshaders.com).
 
 ### Shaping functions
 #### [Example 1](https://codepen.io/superJS132/pen/gJomxz)
