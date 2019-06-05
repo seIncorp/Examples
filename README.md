@@ -9,6 +9,14 @@ Here if you click on box you will delete it. But if you click on empty space you
 ### Example 2 - [Curtains and Balls](https://codepen.io/superJS132/pen/EJqqjq)
 Here you have curtains created with boxes and if you click in empty space you will create new Ball. If you click on ball you will move this ball.
 
+## gpu.js
+### [Example 1](https://codepen.io/superJS132/pen/XwQYPd?editors=1010)
+This example was made from Algorithmic drawing - Shapes - Example 2. With gpu.js work faster.
+
+### [Example 2]()
+
+### [Example 3]()
+
 ## p5.js
 ### Example 1 - [Cardioid](https://codepen.io/superJS132/pen/vMooGg)
 Here you can see how to create Cardioid and visualize it.
