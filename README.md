@@ -11,11 +11,13 @@ Here you have curtains created with boxes and if you click in empty space you wi
 
 ## gpu.js
 ### [Example 1](https://codepen.io/superJS132/pen/XwQYPd?editors=1010)
-This example was made from Algorithmic drawing - Shapes - Example 2. With gpu.js work faster.
+This example was made from Algorithmic drawing - Shapes - Example 2. With gpu.js work faster. Besides this, here is used p5.js script.
 
-### [Example 2]()
+### [Example 2](https://codepen.io/superJS132/pen/RmOJdJ)
+Drawing curved line. Besides this, here is used p5.js script.
 
-### [Example 3]()
+### [Example 3](https://codepen.io/superJS132/pen/JqVZQy)
+Here you have two triangles. You can change color and corners. Besides this, you can select which one you wont to move with the mouse.
 
 ## p5.js
 ### Example 1 - [Cardioid](https://codepen.io/superJS132/pen/vMooGg)
